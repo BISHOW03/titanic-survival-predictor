@@ -5,7 +5,11 @@ Predict whether a passenger would survive the Titanic disaster using machine lea
 This project uses the famous [Kaggle Titanic dataset](https://www.kaggle.com/competitions/titanic) and includes data preprocessing, exploratory data analysis (EDA), model training, live terminal input, and a Streamlit web app.
 
 ---
+## 🌐 Live Demo
 
+👉 [Click to Open App](https://titanic-survival-predictor-bishow03.streamlit.app/)
+
+---
 ## 📂 Project Structure
 
 - titanic-survival-predictor/
